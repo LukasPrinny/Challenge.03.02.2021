@@ -22,7 +22,7 @@ Vous serez un profil aux compétences complètes, transversales et très recherc
 
 ## Le programme de formation
 
-La formation dure 4 mois (soit 17 semaines ou 595 heures), découpée en 4 grandes parties. Elle débouche sur le passage d'une certification reconnue par l'État ([voir le chapitre sur le diplôme](https://www.integra11y.fr/formation.php#details-diplome)). C’est une formation à temps-plein et intensive qui demande une pleine implication de votre part (il n’est par exemple pas possible de travailler, même à mi-temps, en parallèle).
+La formation dure 4 mois (soit 17 semaines ou 595 heures), découpée en 4 grandes parties. Elle débouche sur le passage d'une certification reconnue par l'État ([voir le chapitre sur le diplôme](#le-diplôme). C’est une formation à temps-plein et intensive qui demande une pleine implication de votre part (il n’est par exemple pas possible de travailler, même à mi-temps, en parallèle).
 
 Le programme est construit autour de l’idée que la théorie ne suffit pas : il faut pratiquer pour réussir votre reconversion ! Au menu : travail en équipe, projet fil rouge, exercices pratiques quotidiens.
 
@@ -118,7 +118,7 @@ Les inscriptions sont actuellement ouvertes pour les sessions de 2021.
   
   Pour rappel, le nombre de places est limité.
 
-Les bénéficiaires doivent répondre à certains critères (voir le chapitre « [Qui peut s’inscrire à cette formation ?](http://integra11y.local/formation.php#qui-peut-sinscire) »).
+Les bénéficiaires doivent répondre à certains critères (voir le chapitre « [Qui peut s’inscrire à cette formation ?](#qui-peut-sinscrire-à-cette-formation-) »).
 
 ## L’inscription se déroule en 4 temps
 
