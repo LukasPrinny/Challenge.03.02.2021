@@ -138,3 +138,5 @@ Trois sessions de formation sont pour l’instant programmées :
 3. Session 3 : 9 août – 30 novembre 2021, 10 places, exclusivement pour les personnes aveugles et malvoyantes.
 
 [Faire une demande d'inscription](https://www.integra11y.fr/inscription.php)
+
+Je rajoute un petit bloc de code `_bonjour_`
