@@ -2,11 +2,11 @@
 
 ## Sommaire
 
-- [Intégrateur ou intégratrice web : qu'est-ce que c'est ?](https://www.integra11y.fr/formation.php#definition)
-- [Le programme de formation](https://www.integra11y.fr/formation.php#programme)
-- [Et après la formation ?](https://www.integra11y.fr/formation.php#apres-formation)
-- [Infos pratiques et financement](https://www.integra11y.fr/formation.php#infos)
-- [Inscription](https://www.integra11y.fr/formation.php#inscription)
+- [Intégrateur ou intégratrice web : qu'est-ce que c'est ?](#intégrateur-ou-intégratrice-web--quest-ce-que-cest-)
+- [Le programme de formation](#le-programme-de-formation)
+- [Et après la formation ?](#et-après-la-formation-)
+- [Infos pratiques et financement](#infos-pratiques-et-financement)
+- [Inscription](#inscription)
 
 ## Intégrateur ou intégratrice web : qu’est-ce que c’est ?
 
