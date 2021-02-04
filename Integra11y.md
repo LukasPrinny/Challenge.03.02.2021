@@ -142,3 +142,5 @@ Trois sessions de formation sont pour l’instant programmées :
 Je rajoute un petit bout de code `bonjour`
 
 ```bloc de code```
+
+> ceci est une citation
