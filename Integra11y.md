@@ -139,4 +139,4 @@ Trois sessions de formation sont pour l’instant programmées :
 
 [Faire une demande d'inscription](https://www.integra11y.fr/inscription.php)
 
-Je rajoute un petit bloc de code `_bonjour_`
+Je rajoute un petit bloc de code `bonjour`
