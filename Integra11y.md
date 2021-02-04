@@ -112,9 +112,9 @@ Cette formation professionnelle est entièrement financée par la Région Île-d
 
 Les inscriptions sont actuellement ouvertes pour les sessions de 2021.
 
-- Session 1 : inscriptions jusqu'au 31 Décembre 2020
-- Session 2 : inscriptions jusqu'au 15 Avril 2021
-- Session 3 : inscriptions jusqu'au 15 JUillet 2021
+1. Session 1 : inscriptions jusqu'au 31 Décembre 2020
+2. Session 2 : inscriptions jusqu'au 15 Avril 2021
+3. Session 3 : inscriptions jusqu'au 15 JUillet 2021
   
   Pour rappel, le nombre de places est limité.
 
@@ -122,10 +122,10 @@ Les bénéficiaires doivent répondre à certains critères (voir le chapitre «
 
 ## L’inscription se déroule en 4 temps
 
-- Pré-inscription administrative ;
-- Vérification des pré-requis en anglais, culture numérique et logique. Cette étape est très importante puisqu’elle nous permet de vérifier que vous disposez des connaissances élémentaires nécessaires pour suivre la formation. Les résultats déterminent la suite de la candidature ;
-- Vérification de la motivation, via un support audio ou vidéo (la vidéo peut être en Langue des Signes Française avec sous-titres ou transcription en français) ;
-- Entretien individuel téléphonique ou via messagerie instantanée, pour discuter de vos motivations et de votre projet professionnel.
+1. Pré-inscription administrative ;
+2. Vérification des pré-requis en anglais, culture numérique et logique. Cette étape est très importante puisqu’elle nous permet de vérifier que vous disposez des connaissances élémentaires nécessaires pour suivre la formation. Les résultats déterminent la suite de la candidature ;
+3. Vérification de la motivation, via un support audio ou vidéo (la vidéo peut être en Langue des Signes Française avec sous-titres ou transcription en français) ;
+4. Entretien individuel téléphonique ou via messagerie instantanée, pour discuter de vos motivations et de votre projet professionnel.
 
 L'ensemble de ces étapes prend entre 2 et 4 semaines.
 
@@ -133,8 +133,8 @@ L'ensemble de ces étapes prend entre 2 et 4 semaines.
 
 Trois sessions de formation sont pour l’instant programmées :
 
-- Session 1 : 1er février – 2 juin 2021, 20 places ;
-- Session 2 : 10 mai – 8 septembre 2021, 20 places ;
-- Session 3 : 9 août – 30 novembre 2021, 10 places, exclusivement pour les personnes aveugles et malvoyantes.
+1. Session 1 : 1er février – 2 juin 2021, 20 places ;
+2. Session 2 : 10 mai – 8 septembre 2021, 20 places ;
+3. Session 3 : 9 août – 30 novembre 2021, 10 places, exclusivement pour les personnes aveugles et malvoyantes.
 
 [Faire une demande d'inscription](https://www.integra11y.fr/inscription.php)
